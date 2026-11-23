@@ -34,7 +34,6 @@ This model has been tested using **MATLAB R2025b**.
 If you use this model in your work, please cite:
 - Inoue, S., Dang, V.T., Liu, H. et al. Construction of a computational model of individual progression of motion sickness symptoms based on subjective vertical conflict theory. Exp Brain Res 243, 108 (2025). https://doi.org/10.1007/s00221-025-07052-5
 - V. T. Dang, M. Bourseul and T. Wada, "Prediction of Individual Motion Sickness of Bus Passengers Using a 6DoF-SVC Model Driven by Handheld Tablet Motion During Visual Tasks," in IEEE Transactions on Intelligent  Transportation Systems, vol. 27, no. 10, pp. 13461-13472, Oct. 2026, doi: 10.1109/TITS.2026.3710322.
-
 - 
 ## License
 This project is licensed under the MIT License.  
