@@ -18,6 +18,10 @@ The step 1) leverages a key property of the 6DoF-SVC (IN1) model described in [3
 
 Note that step (1) is particularly useful when applying the 6DoF-SVC model to real-world IMU data. For example, it is effective when the IMU is not aligned with the intended coordinate system (e.g., due to tilted sensor mounting).
 
+## Related Repository
+The 6DoF-SVC model that predicts motion sickness incidence (MSI), rather than MISC, is available in the following repository:
+https://github.com/wachan459/6DoF-SVC_model-IN1_Vestibular
+
 ## Environment
 This model has been tested using **MATLAB R2025b**.  
 
