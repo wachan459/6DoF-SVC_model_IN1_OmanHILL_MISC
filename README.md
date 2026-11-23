@@ -23,8 +23,11 @@ This model has been tested using **MATLAB R2025b**.
 
 ## References
 [1] Inoue, S., Dang, V.T., Liu, H. et al. Construction of a computational model of individual progression of motion sickness symptoms based on subjective vertical conflict theory. Exp Brain Res 243, 108 (2025). https://doi.org/10.1007/s00221-025-07052-5
+
 [2] V. T. Dang, M. Bourseul and T. Wada, "Prediction of Individual Motion Sickness of Bus Passengers Using a 6DoF-SVC Model Driven by Handheld Tablet Motion During Visual Tasks," in IEEE Transactions on Intelligent  Transportation Systems, vol. 27, no. 10, pp. 13461-13472, Oct. 2026, doi: 10.1109/TITS.2026.3710322.
+
 [3] Bos, J. E., MacKinnon, S. N., & Patterson, A. (2005). Motion sickness symptoms in a ship motion simulator: effects of inside, outside, and no view. Aviation, Space, and Environmental Medicine, 76(12), 1111–1118.
+
 [4] Wada, T., & Bos, J. E. (2025). Theoretical Considerations on Models of Vestibular Self-motion Perception as Inherent in Computational Frameworks of Motion Sickness. Biological Cybernetics.
 
 ## How to cite
